@@ -1,0 +1,25 @@
+1. code sample-project
+2. win: alt + 1, mac:opt + 1,
+3. win: ctl + p, mac: cmd + p
+4. win: ctl + w, mac: cmd + w
+5. myfloder/floder/index.js
+6. ctl + b
+7. ctl + + and - 
+8. ctl + |
+9. ctl + j
+10. ↑, clt + l, clear
+
+~ code faster ~
+11. ctl + arrow key
+12. ctl + shift + arrow key 
+13. ctl + x
+14. ctl + c , ctl + v
+15. ctl + /
+16. shift + alt + arrow duplecate
+17. ctl + h, cmd + h,
+18. ctl + d
+19. alt + click
+20. alt + arrow
+21. ctrl + shift + o
+22. ctrl + g
+23. hover + ctrl + click
